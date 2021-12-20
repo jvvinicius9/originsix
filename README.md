@@ -40,5 +40,5 @@ Você pode visualizar o layout do projeto através do link abaixo:
 <hr><br>
 💡 Lembrando que você precisa ter uma conta no <a href="https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web" rel="nofollow">Figma</a>  para acessá-lo.<br><br>
 
-> Projeto criado e desenvolvido por <a href="https://github.com/maykbrito" rel="nofollow">Francielli Rodrigues</a>
+> Projeto criado e desenvolvido por <a href="https://github.com/maykbrito" rel="nofollow">Mayk Brito</a> <br>
 > README inspirado no da <a href="https://github.com/Franciellirodrigues" rel="nofollow">Francielli Rodrigues</a>
