@@ -119,11 +119,12 @@ main {
   align-items: center;
   display: inline-flex;
   border-radius: 0.25rem;
-  transition: background 0.3s ease-in;
+  transition: 0.3s ease-in;
 }
 
 .button:hover {
   background-color: var(--base-color-alt);
+  transform: scale(0.98);
 }
 
 /*   HEADER   */
@@ -150,6 +151,12 @@ main {
 .logo {
   font: 700 1.315rem 'Poppins', sans-serif;
   color: var(--title-color);
+
+  transition: 0.3s;
+}
+
+.logo:hover {
+  transform: scale(1.15);
 }
 
 .logo span {
@@ -358,6 +365,12 @@ nav.show i.icon-close {
   margin-bottom: 1.5rem;
   font-size: 5rem;
   color: var(--base-color);
+
+  transition: 0.3s;
+}
+
+.card i:hover {
+  transform: scale(1.15);
 }
 
 .card .title {
@@ -585,6 +598,7 @@ footer i {
     justify-content: space-between;
     align-items: center;
     margin: 0 auto;
+    grid-template-columns: 45% 55%;
   }
 
   #home .image {
@@ -648,6 +662,11 @@ footer i {
 
   footer .logo {
     font-size: 2.25rem;
+  }
+
+  footer i {
+    font-size: 1.75rem;
+    color: var(--text-color-light);
   }
 }
 
